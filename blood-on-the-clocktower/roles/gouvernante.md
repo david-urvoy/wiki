@@ -6,7 +6,7 @@
 #### Villageois
 #### Alignement : Gentil
 #### Rôle de première nuit
-#### Reveillé que la première nuit
+#### Réveillé seulement la première nuit
 
 
 ### Description
