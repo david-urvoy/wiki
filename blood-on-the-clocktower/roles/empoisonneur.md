@@ -3,6 +3,7 @@
 # Empoisonneur (Poisoner)
 
 #### Modules : [Trouble Brewing](https://brain-academy.github.io/wiki/blood-on-the-clocktower/modules/trouble-brewing)
+#### Sbire
 #### Alignement : Maléfique
 #### Rôle maléfique actif
 #### Réveillé toutes les nuits
