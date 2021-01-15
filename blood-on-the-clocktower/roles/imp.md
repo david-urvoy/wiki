@@ -6,7 +6,7 @@
 #### Démon
 #### Alignement Maléfique
 #### Rôle maléfique actif
-#### Se réveille toutes les nuits
+#### Réveillé toutes les nuits
 
 ### Description
 Chaque nuit, sauf la première (appelée Nuit 0), choisissez un joueur, il meurt.
