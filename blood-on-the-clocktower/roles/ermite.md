@@ -6,6 +6,7 @@
 #### Etranger
 #### Alignement : Gentil
 #### Rôle inclassable
+#### Jamais réveillé
 
 
 ### Description
