@@ -12,8 +12,11 @@ La première nuit, le Conteur vous désigne 2 joueurs et  vous donne ensuite le 
  
 ### Exemples  
 > John (Vertueux) et Matthieu (Baron) sont montrés par le Conteur à l’Archiviste qui aura l’information qu’un des deux joueurs est le Vertueux
+
 > S’il n’y a pas d’Etranger dans la partie,  l’archiviste aura l’information “0” par le Conteur
+
 > Rémi (Cuistot) et Sandy (Pucelle) sont montrés par le Conteur à la Gouvernante qui aura l’information qu’un des deux joueurs est le Cuistot. 
+
 > Tia (qui est Soûlard) pense qu’elle est le Moine et Lucy est le Croque Mort. L’Archiviste apprend qu’entre Tia et Lucy se trouve le Soûlard (point mécanique : L’Archiviste apprend le vrai rôle du joueur, en l’occurence que Tia est le Soûlard)
 
 
