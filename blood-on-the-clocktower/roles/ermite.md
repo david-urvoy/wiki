@@ -2,8 +2,13 @@
 
 # Ermite (Recluse)
 
+#### Modules : [Trouble Brewing](https://brain-academy.github.io/wiki/blood-on-the-clocktower/modules/trouble-brewing)
+#### Etranger
 #### Alignement : Gentil
+#### Rôle inclassable
 
+
+### Description
 Vous êtes un Etranger et le Conteur vous fait généralement reconnaître en tant que Maléfique (Sbire ou Démon) à tous les rôles qui vous verront, même si vous êtes mort.
 
 
