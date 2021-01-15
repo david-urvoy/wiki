@@ -3,6 +3,7 @@
 # Croqueuse d’Hommes (Confidant - Scarlet Woman)
 
 #### Modules : [Trouble Brewing](https://brain-academy.github.io/wiki/blood-on-the-clocktower/modules/trouble-brewing)
+#### Sbire
 #### Alignement : Maléfique
 #### Rôle maléfique passif
 #### Se fait réveiller la nuit uniquement si le Imp choisit de se suicider (“starpass”)
