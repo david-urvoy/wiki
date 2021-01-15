@@ -6,7 +6,7 @@
 #### Villageois
 #### Alignement Gentil
 #### Rôle de protection
-#### Se réveille toutes les nuits
+#### Réveillé toutes les nuits
 
 ### Description
 
