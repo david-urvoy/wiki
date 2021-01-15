@@ -3,6 +3,7 @@
 # Cuistot (Chef)
 
 #### Modules : [Trouble Brewing](https://brain-academy.github.io/wiki/blood-on-the-clocktower/modules/trouble-brewing) - [Deadly Penance Day](https://brain-academy.github.io/wiki/blood-on-the-clocktower/modules/deadly-penance-day)
+#### Villageois
 #### Alignement : Gentil
 #### Rôle de première nuit
 #### Réveillé seulement la première nuit
