@@ -3,7 +3,7 @@
 # Baron (Baron)
 
 #### Modules : [Trouble Brewing](https://brain-academy.github.io/wiki/blood-on-the-clocktower/modules/trouble-brewing) - [Deadly Penance Day](https://brain-academy.github.io/wiki/blood-on-the-clocktower/modules/deadly-penance-day)
-
+#### Sbire
 #### Alignement : Maléfique
 #### Rôle maléfique passif
 #### Ne se réveille jamais la nuit
