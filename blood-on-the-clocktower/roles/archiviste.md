@@ -3,7 +3,7 @@
 # Archiviste (Librarian)
 
 #### Modules : [Trouble Brewing](https://brain-academy.github.io/wiki/blood-on-the-clocktower/modules/trouble-brewing)
-#### Alignement : gentil 
+#### Alignement Gentil 
 #### Rôle de première nuit
 #### Réveillé seulement la première nuit
 
