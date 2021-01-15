@@ -6,7 +6,7 @@
 #### Villageois
 #### Alignement : Gentil
 #### Rôle de détection
-#### Réveillé chaque nuit
+#### Réveillé toutes les nuits
 
 ### Description
 Chaque nuit, vous apprenez combien de vos voisins survivants sont maléfiques
