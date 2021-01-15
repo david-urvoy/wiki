@@ -6,7 +6,7 @@
 #### Etranger
 #### Alignement : gentil
 #### Rôle inclassable
-#### Réveillé chaque nuit
+#### Réveillé toutes les nuits
 
 ### Description
 
