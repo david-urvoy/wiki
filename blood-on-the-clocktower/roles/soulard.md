@@ -2,7 +2,13 @@
 
 # Soûlard (Drunk)
 
+#### Modules : [Trouble Brewing](https://brain-academy.github.io/wiki/blood-on-the-clocktower/modules/trouble-brewing) - [Deadly Penance Day](https://brain-academy.github.io/wiki/blood-on-the-clocktower/modules/deadly-penance-day)
+#### Etranger
 #### Alignement : gentil
+#### Rôle inclassable
+#### Réveillé de la même manière que le rôle qu'il pense être
+
+### Description
 
 Vous pensez que vous avez un rôle de Villageois mais votre capacité ne fonctionne pas car vous ne savez pas que vous êtes le Soûlard et par définition ivre.
 
