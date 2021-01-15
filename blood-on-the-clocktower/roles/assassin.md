@@ -3,6 +3,7 @@
 # Assassin (Assassin) 
 
 #### Modules : [Bad Moon Rising](https://brain-academy.github.io/wiki/blood-on-the-clocktower/modules/bad-moon-rising) - [Deadly Penance Day](https://brain-academy.github.io/wiki/blood-on-the-clocktower/modules/deadly-penance-day)
+#### Sbire
 #### Alignement : Maléfique
 #### Rôle maléfique actif
 #### Se réveille toutes les nuits jusqu’à l’utilisation de sa capacité
