@@ -8,7 +8,7 @@
 #### Rôle inclassable
 #### Réveillé chaque nuit
 
-#### Description
+### Description
 
 Rappel : dans Blood On The Clock Tower, “voter” signifie voter oui contre un joueur pour l’exécuter.
 
