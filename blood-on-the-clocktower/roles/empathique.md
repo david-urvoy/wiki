@@ -3,6 +3,7 @@
 # Empathique (Empath)
 
 #### Modules : [Trouble Brewing](https://brain-academy.github.io/wiki/blood-on-the-clocktower/modules/trouble-brewing)
+#### Villageois
 #### Alignement : Gentil
 #### Rôle de détection
 #### Réveillé chaque nuit
